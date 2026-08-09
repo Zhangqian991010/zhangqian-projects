@@ -79,10 +79,7 @@ export const projects = [
       { src: 'images/work/netease-4.jpg', caption: '与 mentor 一起用餐' }
     ],
     docs: [
-      { name: '玩家诉求分类与优先级建议报告（数据表）', file: 'docs/梦幻西游玩家诉求分类与优先级建议报告.xlsx' },
-      { name: '贴吧 / 小红书内容排期表', file: 'docs/梦幻西游贴吧小红书内容排期表.xlsx' },
-      { name: '网易面试准备与复盘', file: 'docs/网易面试.docx' },
-      { name: '面试补充回答', file: 'docs/面试_补充回答.docx' }
+      { name: '玩家诉求分类与优先级建议报告（数据表）', file: 'docs/梦幻西游玩家诉求分类与优先级建议报告.xlsx' }
     ],
     learning: [
       '做运营的第一课：先分类，再判断。没有分类的反馈只是一堆情绪，分类之后才是可以行动的方案。',
@@ -150,18 +147,7 @@ export const projects = [
       { src: 'images/work/yuexiu-4.jpg', caption: '户外活动' },
       { src: 'images/work/yuexiu-5.jpg', caption: '工位一角' }
     ],
-    docs: [
-      { name: '蔡正强总访谈稿', file: 'docs/蔡正强总访谈稿.docx' },
-      { name: '陈伟智总访谈稿', file: 'docs/陈伟智总访谈稿.docx' },
-      { name: '崔总访谈稿整理', file: 'docs/崔总访谈稿整理.docx' },
-      { name: '李帷总访谈稿', file: 'docs/李帷总访谈稿.docx' },
-      { name: '力大总访谈稿整理', file: 'docs/力大总访谈稿整理.docx' },
-      { name: '丘荪坚总访谈稿整理', file: 'docs/丘荪坚总访谈稿整理.docx' },
-      { name: '汪总访谈稿整理', file: 'docs/汪总访谈稿整理.docx' },
-      { name: '许炀总访谈稿整理（有总结）', file: 'docs/许炀总访谈稿整理有总结.docx' },
-      { name: '朱亮总访谈稿整理', file: 'docs/朱亮总访谈稿整理.docx' },
-      { name: '项目周会纪要 · 格式规范', file: 'docs/项目周会纪要_格式规范.xlsx' }
-    ],
+    docs: [],
     learning: [
       '访谈是一门“听”的学问：听懂对方真正想表达的，比问出准备好的问题更重要。',
       '整理工作拼的不是文笔，是细心和标准。一份零差错的稿子背后，是重复核对十遍的耐心。',
