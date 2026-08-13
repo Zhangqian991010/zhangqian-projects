@@ -164,53 +164,53 @@ export const projects = [
     title: '图书内容运营与新媒体宣发',
     en: 'NANFANG DAILY',
     summary:
-      '在广东南方日报出版社担任实习编辑：负责图书稿件初审校对，整理 40+ 份校对记录并分类归档；参与新媒体宣发，撰写图书简介与短文案 18 篇。',
+      '在广东南方日报出版社担任内容运营实习生：围绕图书卖点撰写新媒体短文案 18 篇，参与宣传物料筹备与素材归集，建立可复用的宣传素材台账，用 AI 辅助内容生产并人工复核，兼顾内容质量与产出效率。',
     accent: '#3a2a4d',
     accent2: '#1a1226',
     hero: 'images/work/nanfang-5.jpg',
-    tags: ['内容编辑', '校对规范', '新媒体文案', '台账管理'],
+    tags: ['内容运营', '新媒体文案', '素材台账', 'AI 辅助'],
     metrics: [
-      { value: '40+', label: '书稿校对记录' },
       { value: '18 篇', label: '新媒体短文案' },
-      { value: '14 类', label: '校对问题分类' },
-      { value: '0', label: '原则性差错' }
+      { value: '40+', label: '校对记录归档' },
+      { value: '1 套', label: '可复用素材台账' },
+      { value: 'AI + 人工', label: '内容生产工作流' }
     ],
     intro: [
-      '编辑不是改错别字那么简单。在南方日报出版社，我从图书稿件初审校对做起，逐渐理解：编辑是在“内容质量”和“出版节奏”之间做平衡的人。',
-      '我把校对做成台账：文字、标点、格式、逻辑、常识……每一类问题都记录在案、分类归档。用 AI 辅助初查、人工复核，在效率与准确率之间找到自己的节奏。'
+      '在南方日报出版社，我以内容运营实习生的身份参与图书新媒体内容策划与发布：围绕图书卖点撰写宣传短文案，参与配套宣传物料筹备与素材归集，建立可复用的宣传素材台账。',
+      '同时负责图书稿件初审校对，整理 40+ 份校对记录并分类归档，保障内容上线前的质量与规范。我用 AI 辅助文案初稿与审稿校对、人工复核后交付，在内容质量与产出效率之间找到平衡。'
     ],
     story: [
       {
-        title: '校对的本质，是对文字的敬畏',
-        text: '从校歌创作稿件到长论文打印稿，每一处表述都要经得起追问。我养成了逐字审读的习惯：先通读理解语境，再逐句核对细节，最后回头检查标点与格式。',
-        img: 'images/work/editor-draft-song.png',
-        caption: '校歌创作稿件 · 逐字审读标注'
+        title: '从图书卖点出发，写出读者想看的文案',
+        text: '一本厚厚的书，哪些内容值得写进宣传文案、哪些话读者会关心，需要从读者视角重新判断。我围绕图书卖点撰写新媒体短文案 18 篇，在文案里打磨文字表达能力与营销敏感度。',
+        img: 'images/work/nanfang-2.jpg',
+        caption: '参与图书配套宣传物料筹备'
       },
       {
-        title: 'AI 辅助初查，人工负责判断',
-        text: '面对大篇幅稿件，我会用 AI 做第一轮初查，但最终判断永远在我手里：AI 能指出“可能有问题的位置”，能不能改、怎么改，需要编辑对内容和语境的完整理解。',
+        title: '把素材管起来：可复用的宣传素材台账',
+        text: '宣传物料多而杂，我参与图书配套宣传物料的筹备与素材归集，把图片、文案、资料按用途和状态整理成台账，让素材随取随用，也为后续宣发沉淀了一套可复用的资产。',
+        img: 'images/work/editor-reading.png',
+        caption: '通勤阅读 · 保持内容输入，积累选题素材'
+      },
+      {
+        title: 'AI 辅助生产，人工负责判断',
+        text: '我用 AI 辅助文案初稿与审稿校对，但最终判断永远在自己手里：AI 能快速给出初稿和可能的疏漏，能不能用、怎么改，需要对内容、读者和营销目标的完整理解。',
         img: 'images/work/editor-manual.png',
-        caption: '《图书编辑校对实用手册》· 实习工具书'
+        caption: '《图书编辑校对实用手册》· 内容质量工作流'
       },
       {
-        title: '从使用者到审读者的视角切换',
-        text: '翻阅教材和图书时，我的视角变了：不再只是读者，而是会想“这句话读者能看懂吗？这个表述是否严谨？这里会不会产生歧义？”。',
-        img: 'images/work/editor-textbooks.png',
-        caption: '教材翻阅 · 从使用者到审读者的视角切换'
-      },
-      {
-        title: '把校对做成可追溯的台账',
-        text: '实习期间我整理了 40+ 份校对记录，按问题类型分类归档，形成一份可以复用的校对工作记录表——这也是我“台账化”工作习惯的又一次实践。',
-        img: 'images/work/editor-draft-thesis.png',
-        caption: '长文打印稿 · 校对与格式核对'
+        title: '质量是内容运营的底线',
+        text: '内容要吸引人，也要经得起推敲。我负责图书稿件初审校对，整理 40+ 份校对记录并分类归档，保障内容上线前的质量与规范——这让我明白，好内容既要会表达，也要守底线。',
+        img: 'images/work/editor-draft-song.png',
+        caption: '稿件校对记录 · 保障内容上线前的质量与规范'
       }
     ],
     gallery: [
-      { src: 'images/work/editor-manual.png', caption: '《图书编辑校对实用手册》' },
-      { src: 'images/work/editor-draft-song.png', caption: '校歌创作稿件 · 逐字审读标注' },
+      { src: 'images/work/editor-manual.png', caption: '内容质量工作流 · AI 辅助 + 人工复核' },
+      { src: 'images/work/editor-draft-song.png', caption: '稿件校对记录 · 分类归档' },
       { src: 'images/work/editor-draft-thesis.png', caption: '长文打印稿 · 校对与格式核对' },
-      { src: 'images/work/editor-textbooks.png', caption: '教材翻阅 · 视角切换' },
-      { src: 'images/work/editor-reading.png', caption: '通勤阅读 · 保持内容输入' },
+      { src: 'images/work/editor-textbooks.png', caption: '从读者视角理解图书内容' },
+      { src: 'images/work/editor-reading.png', caption: '通勤阅读 · 积累内容选题' },
       { src: 'images/work/nanfang-1.jpg', caption: '翻阅报刊资料' },
       { src: 'images/work/nanfang-2.jpg', caption: '文创礼包' },
       { src: 'images/work/nanfang-3.jpg', caption: '楼下锦鲤池' },
