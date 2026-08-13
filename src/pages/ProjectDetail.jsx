@@ -31,6 +31,7 @@ export default function ProjectDetail() {
             <span>{project.period}</span>
           </p>
           <h1 className="detail-hero-title">{project.title}</h1>
+          {project.role && <p className="detail-hero-role">{project.role}</p>}
           <div className="detail-hero-tags">
             {project.tags.map((t) => <span key={t} className="tag tag--light">{t}</span>)}
           </div>
