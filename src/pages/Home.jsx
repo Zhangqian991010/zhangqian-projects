@@ -41,7 +41,6 @@ export default function Home() {
               <div className="project-card-body">
                 <span className="mono project-card-company">{p.company} · {p.period}</span>
                 <h3 className="project-card-title">{p.title}</h3>
-                <p className="project-card-role">{p.role}</p>
                 <p className="project-card-summary">{p.summary}</p>
                 <div className="project-card-tags">
                   {p.tags.slice(0, 3).map((t) => <span key={t} className="tag">{t}</span>)}
